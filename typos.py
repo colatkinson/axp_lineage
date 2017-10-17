@@ -20,9 +20,11 @@ del rows[0]
 
 bros = [row[1] for row in rows]
 bigs = [row[3] for row in rows]
+big_years = [row[2] for row in rows]
 
-for big in bigs:
+for ind, big in enumerate(bigs):
     if big in bros or big == '':
         continue
-    print("Big %s: %s" % (big, difflib.get_close_matches(big, bros)))
+    print("Big %s for %s: %s" % (big, big_years[ind],
+                                 difflib.get_close_matches(big, bros)))
 
