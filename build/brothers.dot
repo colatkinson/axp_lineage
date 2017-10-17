@@ -765,7 +765,7 @@ digraph brothers {
 	"Dan Morely" -> "Mark Gage";
 	"Bradley Scott" -> "Christopher Diorio";
 	"Ryan Manley" -> "Michael Spinrad";
-	"Johnathan Linard" -> "Christopher Ray";
+	"Jonathan Linard" -> "Christopher Ray";
 	"Justin Aniello" -> "David Hughes";
 	"Michael Stieh" -> "Spencer Hakim";
 	"Matthew Rivkin" -> "Felix Gervits";
@@ -792,7 +792,7 @@ digraph brothers {
 	"Oliver Williams" -> "David Strohl";
 	"Christopher Bye" -> "Griffin Hammer";
 	"Mark Gage" -> "Matthew Brier";
-	"Chris Ray" -> "Casey Pham";
+	"Christopher Ray" -> "Casey Pham";
 	"Michael Spinrad" -> "Andrew Kessler";
 	"Ujas Shah" -> "Thomas Sullivan";
 	"Brian Dohm" -> "Zachary Dreiss";
@@ -801,7 +801,7 @@ digraph brothers {
 	"William Dorgan" -> "Eric Green";
 	"Andrew Ennaco" -> "Neil Andruski";
 	"Noah Peyser" -> "Joseph Glavan";
-	"Jared Connel" -> "Craig Richard";
+	"Jared Connell" -> "Craig Richard";
 	"Andrew Ewing" -> "Alexander Pezzouli";
 	"Paul Trestman" -> "Sean Lyons";
 	"Timothy Crawford" -> "Christopher Kalinowski";
@@ -820,8 +820,8 @@ digraph brothers {
 	"Andrew Ewing" -> "Jeremy Styborski";
 	"Stephen Badala" -> "John Martin";
 	"Andrew Briggs" -> "Christopher Doherty";
-	"Andrew Zucchelli" -> "Devin Glenn";
-	"Jared Connel" -> "Ethan Kaplan";
+	"Andrew Zuchelli" -> "Devin Glenn";
+	"Jared Connell" -> "Ethan Kaplan";
 	"Joshua Klimaszewski" -> "Eric Culp";
 	"Christopher Doherty" -> "John Kaufman";
 	"Craig Richard" -> "Taylor Scicchitano";
@@ -848,7 +848,7 @@ digraph brothers {
 	"Devin Glenn" -> "Isaac Cohen";
 	"Harish Duraiswami" -> "Ashwin Raghuraman";
 	"David Strohl" -> "David Hecht";
-	"Craig Richards" -> "Eduardo Machado";
+	"Craig Richard" -> "Eduardo Machado";
 	"Joseph Glavan" -> "Michael Metrocavich";
 	"James Lee" -> "Eddie Lin";
 	"Alexander Pezzouli" -> "Christopher Georgalas";
