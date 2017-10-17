@@ -804,7 +804,7 @@ digraph brothers {
 	"Jared Connel" -> "Craig Richard";
 	"Andrew Ewing" -> "Alexander Pezzouli";
 	"Paul Trestman" -> "Sean Lyons";
-	"Tim Crawford" -> "Christopher Kalinowski";
+	"Timothy Crawford" -> "Christopher Kalinowski";
 	"Benjamin Constantine" -> "Michael Stecher";
 	"Stephen Badala" -> "Jan Wicha";
 	"Ian Mahler" -> "Mitchell Warren";
@@ -812,7 +812,7 @@ digraph brothers {
 	"Andrew Ennaco" -> "Victor Fernandes";
 	"Michael Spinrad" -> "Joshua Klimaszewski";
 	"Benjamin Constantine" -> "Michael Tuccio";
-	"Tim Crawford" -> "Robert Fullerton";
+	"Timothy Crawford" -> "Robert Fullerton";
 	"Xiao Chen" -> "Sebastian Dalby";
 	"Noah Peyser" -> "Jacob Earl";
 	"Zachary Dreiss" -> "Joseph Mazzuca";
